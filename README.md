@@ -4,4 +4,4 @@ Welcome to computational physics! This is the repository with the Homeworks for 
 
 ### Homework 2 
 
-* [Homework 2](https://github.com/ahromero/HomeworksCP/tree/master/Homework2/HW2.ipynb)
+* [Homework 2](https://github.com/ahromero/HomeworksCP/blob/master/Homework2/Week2.ipynb)
